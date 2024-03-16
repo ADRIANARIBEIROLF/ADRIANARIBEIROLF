@@ -6,7 +6,6 @@
 - ⚡ Fun fact: Sou um poco pessimista sobre meus projetos, mas no final dá tudo certo. Sou muito critica e isso me ajuda a fazer tudo com perfeição.
   
 
-Trabalho como **Auxiliar Tecnico Administratico**<br>
 Sou graduada em **Analise de QA**<br>
 Sou bacharel em **Administração** (Anhanguera - 2017)<br>
 
