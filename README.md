@@ -7,7 +7,7 @@
   
 
 Sou graduada em **Analise de QA**<br>
-Sou bacharel em **Administração** (Anhanguera - 2017)<br>
+Bacharel em **Administração** (Anhanguera - 2017)<br>
 
 <!---
 ADRIANARIBEIROLF/ADRIANARIBEIROLF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
