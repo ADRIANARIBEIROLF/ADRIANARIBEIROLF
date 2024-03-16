@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo mais sobre essa área
 - 💞️ Procuro colaborar em projetos de QA
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: Sou um poco pessimista sobre meus projetos, mas no final dá tudo certo. Sou muito critica e isso me ajuda a fazer tudo com perfeição.
+- ⚡ Curiosidade: Sou um pouco pessimista sobre meus projetos, mas no final dá tudo certo. Sou muito crítica e isso me ajuda a fazer tudo com perfeição.
 
 Sou graduada em **Analise de QA**<br>
 Bacharel em **Administração** (Anhanguera - 2017)<br>
